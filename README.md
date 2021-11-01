@@ -43,4 +43,5 @@ The src folder contains several scritps and notebooks :
 
 1. Clone the repo
 2. Download the training and testing data and put it in the right folder 
-3. Run `python3 run.py` in the home directory
+3. cd into the src folder
+4. Run `python3 run.py`
