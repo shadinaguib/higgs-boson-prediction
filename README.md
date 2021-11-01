@@ -16,6 +16,7 @@ In order to run the code, the folder structure should be as follows:
         ├── train.csv
         └── test.csv
     ├── src                     # Source files
+        ├── helpers_p1.py
         ├── costs.py
         ├── tools.py
         ├── crossvalidation.py
@@ -29,6 +30,7 @@ In order to run the code, the folder structure should be as follows:
 # Code structure
 The src folder contains several scritps and notebooks : 
 
+**`helpers_p1.py`** : contains helper functions for reading and writing csv files  
 **`costs.py`** : contains helper functions for regression models using gradient descent  
 **`tools.py`** : contains helper functions for polynomial regression and cross validation  
 **`crossvalidation.py`** : contains helper functions for cross validation  
