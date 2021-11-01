@@ -8,12 +8,13 @@ Team Members :
 
 # Environment
 In order to run the code, the folder structure should be as follows: 
-.
-├── Data                    # Data files, in .csv
-    ├── train.csv
-    └── test.csv
-├── src                     # Source files
-└── README.md
+
+    .
+    ├── Data                    # Data files, in .csv
+        ├── train.csv
+        └── test.csv
+    ├── src                     # Source files
+    └── README.md
 
 
 # Code structure
