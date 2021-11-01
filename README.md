@@ -23,8 +23,8 @@ The src folder contains several scritps and notebooks :
 **`costs.py`** : contains helper functions for regression models using gradient descent  
 **`tools.py`** : contains helper functions for polynomial regression and cross validation  
 **`crossvalidation.py`** : contains helper functions for cross validation  
-**`implementations.py`** : contains regression models  
-**`train_test.py`** : contains functions for training models and generating output csv file  
+**`implementations.py`** : contains definitions of regression models  
+**`train_test.py`** : contains functions for training models using the different regression models  
 **`run.py`** : contains code for generating prediction output CSV on unlabelled testing set   
 **`notebook.ipynb`** : contains explatorary analysis of dataset and plots that are found in the report
 
