@@ -1,6 +1,8 @@
 # higgs-boson-prediction
 Machine Learning HIggs Boson challenge for AICrowd
 
+The Higgs Boson discovery, announced at the Large Hadron Collider at CERN in March 2013, was the center of a new machine learning challenge. This particle can result from the collision of two accelerated protons. Physicist were able to identify it by measuring the decay signature of a collision event. The challenge was to identify those signals among a noisy background. This report relates and details our methodology and results while trying to recreate the "discovery" of the Higgs Boson using Machine Learning methods, based on real data. By comparing different models and hyperparameters, we achieved $82.9\%$ of accuracy using the Ridge regression method.
+
 Team Members : 
 * Léo Alvarez: leo.alvarez@epfl.ch  
 * Daniel Gonczy: daniel.gonczy@epfl.ch
