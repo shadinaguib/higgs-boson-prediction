@@ -1,0 +1,1 @@
+Download data from AICrowd higgs challenge and put it in this folder
