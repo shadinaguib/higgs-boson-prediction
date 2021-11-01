@@ -14,6 +14,13 @@ In order to run the code, the folder structure should be as follows:
         ├── train.csv
         └── test.csv
     ├── src                     # Source files
+        ├── costs.py
+        ├── tools.py
+        ├── crossvalidation.py
+        ├── implementations.py
+        ├── train_test.py
+        ├── run.py
+        ├── project.ipynb
     └── README.md
 
 
