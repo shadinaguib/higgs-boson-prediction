@@ -3,7 +3,7 @@ Machine Learning HIggs Boson challenge for AICrowd
 
 Team Members : 
 * Léo Alvarez: leo.alvarez@epfl.ch  
-* Daniel Gonczy: 
+* Daniel Gonczy: daniel.gonczy@epfl.ch
 * Shadi Naguib: shadi.naguib@epfl.ch
 
 # Environment
