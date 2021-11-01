@@ -26,3 +26,10 @@ The src folder contains several scritps and notebooks :
 **`implementations.py`** : contains regression models  
 **`train_test.py`** : contains functions for training models and generating output csv file  
 **`run.py`** : contains code for generating prediction output CSV on unlabelled testing set   
+**`notebook.ipynb`** : contains explatorary analysis of dataset and plots that are found in the report
+
+# To generate prediction data
+
+1. Clone the repo
+2. Download the training and testing data and put it in the right folder 
+3. Run `python3 run.py` in the home directory
